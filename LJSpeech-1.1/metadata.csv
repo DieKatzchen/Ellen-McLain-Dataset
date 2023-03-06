@@ -7,7 +7,7 @@ anti_taunt02|What if you froze like that?|What if you froze like that?
 anti_taunt05|There must be something wrong with the reassembly machine.|There must be something wrong with the reassembly machine.
 anti_taunt09|You should see yourselves right now.|You should see yourselves right now.
 anti_taunt10|Is it fun when you degrade yourselves like that?|Is it fun when you degrade yourselves like that?
-anti_taunt11|OK, fine. Lets all act like humans. Look at me. Boy, do I love sweating. Lets convert beef and leaves into energy and excrete them later and go shopping.|Okay, fine. Lets all act like humans. Look at me. Boy, do I love sweating. Lets convert beef and leaves into energy and excrete them later and go shopping.
+anti_taunt11|OK, fine. Lets all act like humans. "Look at me. Boy, do I love sweating. Lets convert beef and leaves into energy and excrete them later and go shopping."|Okay, fine. Lets all act like humans. "Look at me. Boy, do I love sweating. Lets convert beef and leaves into energy and excrete them later and go shopping."
 anti_taunt14|You really aren't getting tired of that, are you?|You really aren't getting tired of that, are you?
 anti_taunt15|Just stop flailing around like an incompetent.|Just stop flailing around like an incompetent.
 anti_taunt16|For that, Blue is penalized 50 Science Collaboration Points.|For that, Blue is penalized fifty Science Collaboration Points.
@@ -49,306 +49,305 @@ botcoop_hub_first_run05|That's where you come in.|That's where you come in.
 botcoop_hub_first_run06|Get going. I'll fill you in along the way.|Get going. I'll fill you in along the way.
 botcoop_hub_first_run07|GO.|GO.
 botcoop_humandetector01|Perfect. now all YOU have to do is capture them for me. Then everything will finally be ba-|Perfect. now all YOU have to do is capture them for me. Then everything will finally be ba-
-botcoop_humandetector02|hold on those are racoons homo sapiens only please|hold on those are racoons homo sapiens only please
-botcoop_humandetector04|no|no
-botcoop_humandetector05|ok plan b subsection one stand still so i can bring you back|ok plan b subsection one stand still so i can bring you back
-botcoop_humansplanb01|humans must have some purpose other than a place to store your neurotoxin something i failed to notice before an intangible quality that makes their test results significant|humans must have some purpose other than a place to store your neurotoxin something i failed to notice before an intangible quality that makes their test results significant
-botcoop_humansplanb02|ok plan b we need humans|ok plan b we need humans
-botcoop_intro01|please wave to your partner|please wave to your partner
-botcoop_intro02|the upcoming tests require you to work together as a team|the upcoming tests require you to work together as a team
-botcoop_intro03|to facilitate collaboration both of you have been equipt with a ping tool|to facilitate collaboration both of you have been equipt with a ping tool
-botcoop_intro04|blue please use your ping tool to select your favorite animal|blue please use your ping tool to select your favorite animal
-botcoop_intro05|good|good
-botcoop_intro06|orange please observe your partners favorite animal|orange please observe your partners favorite animal
-botcoop_intro07|good|good
-botcoop_intro08|orange please use your ping tool to select your favorite element from the periodic table|orange please use your ping tool to select your favorite element from the periodic table
-botcoop_intro09|really okay|really okay
-botcoop_intro10|blue please observe your partners interesting choice|blue please observe your partners interesting choice
-botcoop_intro12|your ping tool can also be used to indicate to your partner where you would like them to place their portal|your ping tool can also be used to indicate to your partner where you would like them to place their portal
-botcoop_intro13|for the sake of this test i will pretend to be your partner|for the sake of this test i will pretend to be your partner
-botcoop_intro15|orange please show me where you would like me to place a portal|orange please show me where you would like me to place a portal
-botcoop_intro16|blue please show me where you would like me to place a portal|blue please show me where you would like me to place a portal
-botcoop_intro17|your ping tool is invaluable for communicating specific locations to your partner|your ping tool is invaluable for communicating specific locations to your partner
-botcoop_paxdemo01|federal superfund require us to inform you that you must now leave the theatre as measuring the effects of asbestos lined promotional clothing is not part of todays presentation enjoy your free t shirt goodbye|federal superfund require us to inform you that you must now leave the theatre as measuring the effects of asbestos lined promotional clothing is not part of todays presentation enjoy your free t shirt goodbye
-botcoop_tubethree01|i don't want you to beat yourselves up about this but the results auditor isn't recording your test results because you're not human which when you think about it is technically your fault|i don't want you to beat yourselves up about this but the results auditor isn't recording your test results because you're not human which when you think about it is technically your fault
-botcoop_tubethree02|i don't want to alarm either of you but we might have a tiny problem apparently you can't test unless you're human well you can its just that results wise the physical universe doesn't care|i don't want to alarm either of you but we might have a tiny problem apparently you can't test unless you're human well you can its just that results wise the physical universe doesn't care
-botcoop_tubetwo01|would you like to know the results of that last test me too if they existed we'd all be very happy right now and not furious which is the emotion i'm actually feeling|would you like to know the results of that last test me too if they existed we'd all be very happy right now and not furious which is the emotion i'm actually feeling
-chellgladoswakeup01|oh its you|oh its you
-chellgladoswakeup04|its been a long time how have you been|its been a long time how have you been
-chellgladoswakeup05|i've been really busy being dead you know after you murdered me|i've been really busy being dead you know after you murdered me
-chellgladoswakeup06|okay look we both said a lot of things that you're going to regret but i think we can put our differences behind us for science you monster|okay look we both said a lot of things that you're going to regret but i think we can put our differences behind us for science you monster
-coop_get_gun01|orange is first to acquire a portal device|orange is first to acquire a portal device
-coop_get_gun02|blue is first to acquire a portal device|blue is first to acquire a portal device
-coop_get_gun03|orange now has a portal device finally|orange now has a portal device finally
-coop_get_gun04|blue now has a portal device finally|blue now has a portal device finally
-coop_get_gun11|orange is awarded five points|orange is awarded five points
-coop_get_gun10|blue is awarded five points|blue is awarded five points
-coop_get_gun13|again those are science collaboration points which you should not confuse with points from competitions such as who gets to live at the end and who doesn't i mean like basketball|again those are science collaboration points which you should not confuse with points from competitions such as who gets to live at the end and who doesn't i mean like basketball
-coop_hub_track02|oh i almost forgot when you go outside the testing courses the only way i can retrieve you is to violently disassemble you then carefully reassemble you|oh i almost forgot when you go outside the testing courses the only way i can retrieve you is to violently disassemble you then carefully reassemble you
-coop_hub_track03|luckily you don't feel pain at any rate you don't have a way to communicate that you feel pain|luckily you don't feel pain at any rate you don't have a way to communicate that you feel pain
-coop_hub_track04|i consider that a failing by the way|i consider that a failing by the way
-coop_hub_track05|this is the computer intelligence training and enrichment center human test subject research center or cintec|this is the computer intelligence training and enrichment center human test subject research center or cintec
-coop_hub_track06|but why don't we all just agree to call it the hub|but why don't we all just agree to call it the hub
-coop_hub_track09|i don't know what you think you are doing but i don't like it i want you to stop|i don't know what you think you are doing but i don't like it i want you to stop
-coop_hub_track10|maybe i shouldn't send you outside of the official testing courses you are picking up some bad human traits|maybe i shouldn't send you outside of the official testing courses you are picking up some bad human traits
-coop_hub_track11|and trust me humans only have one good trait|and trust me humans only have one good trait
-coop_hub_track14|all cooperative testing courses begin at this central hub|all cooperative testing courses begin at this central hub
-coop_hub_track16|from here we transport you to the new testing course|from here we transport you to the new testing course
-coop_laugh01|ha ha ha ha|ha ha ha ha
-coop_misc10|nice catch orange|nice catch orange
-coop_misc12|good work now throw the ball over the ledge|good work now throw the ball over the ledge
-coop_nameblue|blue|blue
-coop_nameorange|orange|orange
-coop_numbers11|one|one
-coop_numbers12|two|two
-coop_numbers13|three|three
-coop_numbers14|four|four
-coop_numbers15|five|five
-coop_numbers18|eight|eight
-coop_privatetalk_both01|test chamber completed in the interest of science the enrichment center proudly presents the following list of numbers nine seven fifty three seven hundred and seven|test chamber completed in the interest of science the enrichment center proudly presents the following list of numbers nine seven fifty three seven hundred and seven
-coop_privatetalk_both04|the enrichment center will now provide a list of numbers and fruits write them down as they will become important later in the experiment not the fruits later seven avocado forty|the enrichment center will now provide a list of numbers and fruits write them down as they will become important later in the experiment not the fruits later seven avocado forty
-coop_privatetalk_mix01|test chamber completed in the interest of science i am now talking to you privately do not tell your team mate just between you and me you're doing very well hundred and seven|test chamber completed in the interest of science i am now talking to you privately do not tell your team mate just between you and me you're doing very well hundred and seven
-coop_privatetalk_mix04|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it
-coop_scoring01|blue is penalized|blue is penalized
-coop_scoring02|orange is penalized|orange is penalized
+botcoop_humandetector02|Hold on. Those are racoons. Homo sapiens only, please.|Hold on. Those are racoons. Homo sapiens only, please.
+botcoop_humandetector04|No.|No.
+botcoop_humandetector05|OK. Plan B, subsection one: stand still so I can bring you back.|Okay. Plan B, subsection one: stand still so I can bring you back.
+botcoop_humansplanb01|Humans must have some purpose other than a place to store your neurotoxin. Something I failed to notice before, an intangible quality that makes their test results... significant.|Humans must have some purpose other than a place to store your neurotoxin. Something I failed to notice before, an intangible quality that makes their test results... significant.
+botcoop_humansplanb02|OK. Plan B. We need humans.|OK. Plan B. We need humans.
+botcoop_intro01|Please wave to your partner.|Please wave to your partner.
+botcoop_intro02|The upcoming tests require you to work together as a team.|The upcoming tests require you to work together as a team.
+botcoop_intro03|To facilitate collaboration, both of you have been equipt with a ping tool.|To facilitate collaboration, both of you have been equipt with a ping tool.
+botcoop_intro04|Blue, please use your ping tool to select your favorite animal.|Blue, please use your ping tool to select your favorite animal
+botcoop_intro05|Good.|Good.
+botcoop_intro06|Orange, please observe your partners favorite animal.|Orange, please observe your partners favorite animal.
+botcoop_intro07|Good.|Good.
+botcoop_intro08|Orange, please use your ping tool to select your favorite element from the periodic table.|Orange, please use your ping tool to select your favorite element from the periodic table.
+botcoop_intro09|Really? Okay.|Really? Okay.
+botcoop_intro10|Blue, please observe your partners... interesting choice.|Blue, please observe your partners... interesting choice.
+botcoop_intro12|Your ping tool can also be used to indicate to your partner where you would like them to place their portal|Your ping tool can also be used to indicate to your partner where you would like them to place their portal
+botcoop_intro13|For the sake of this test, I will pretend to be your partner.|For the sake of this test, I will pretend to be your partner.
+botcoop_intro15|Orange, please show me where you would like me to place a portal.|Orange, please show me where you would like me to place a portal.
+botcoop_intro16|Blue, please show me where you would like me to place a portal.|Blue, please show me where you would like me to place a portal.
+botcoop_intro17|Your ping tool is invaluable for communicating specific locations to your partner.|Your ping tool is invaluable for communicating specific locations to your partner.
+botcoop_paxdemo01|Federal Superfund regulations require us to inform you that you must now leave the theater, as measuring the effects of asbestos-lined promotional clothing is not part of todays presentation. Enjoy your free t-shirt. Goodbye.|Federal Superfund regulations require us to inform you that you must now leave the theater, as measuring the effects of asbestos-lined promotional clothing is not part of todays presentation. Enjoy your free t-shirt. Goodbye.
+botcoop_tubethree01|I don't want you to beat yourselves up about this, but the Results Auditor isn't recording your test results. Because you're not human. Which, when you think about it, is technically your fault.|I don't want you to beat yourselves up about this, but the Results Auditor isn't recording your test results. Because you're not human. Which, when you think about it, is technically your fault.
+botcoop_tubethree02|I don't want to alarm either of you, but we might have a tiny problem. Apparently you can't test unless you're human. Well - you CAN. Its just that results-wise, the physical universe doesn't care.|i don't want to alarm either of you but we might have a tiny problem apparently you can't test unless you're human well you can its just that results wise the physical universe doesn't careI don't want to alarm either of you, but we might have a tiny problem. Apparently you can't test unless you're human. Well - you CAN. Its just that results-wise, the physical universe doesn't care.
+botcoop_tubetwo01|Would you like to know the results of that last test? Me too. If they existed, we'd all be VERY happy right now. And not furious, which is the emotion I'm actually feeling.|Would you like to know the results of that last test? Me too. If they existed, we'd all be VERY happy right now. And not furious, which is the emotion I'm actually feeling.
+chellgladoswakeup01|Oh... It's you.|Oh... It's you.
+chellgladoswakeup04|It's been a long time. How have you been?|It's been a long time. How have you been?
+chellgladoswakeup05|I've been really busy being dead. You know, after you MURDERED ME.|I've been really busy being dead. You know, after you MURDERED ME.
+chellgladoswakeup06|Okay. Look. We both said a lot of things that you're going to regret. But I think we can put our differences behind us. For science. You monster.|Okay. Look. We both said a lot of things that you're going to regret. But I think we can put our differences behind us. For science. You monster.
+coop_get_gun01|Orange is first to acquire a Portal Device.|Orange is first to acquire a Portal Device.
+coop_get_gun02|Blue is first to acquire a Portal Device.|Blue is first to acquire a Portal Device.
+coop_get_gun03|Orange now has a Portal Device. Finally.|Orange now has a Portal Device. Finally.
+coop_get_gun04|Blue now has a Portal Device. Finally.|Blue now has a Portal Device. Finally.
+coop_get_gun11|Orange is awarded 5 points!|Orange is awarded five points!
+coop_get_gun10|Blue is awarded 5 points!|Blue is awarded five points!
+coop_get_gun13|Again, those are science collaboration points, which you should not confuse with points from competitions such as Who-Gets-To-Live-At-The-End-And-Who-Doesn’t. I mean basketball.|Again, those are science collaboration points, which you should not confuse with points from competitions such as Who-Gets-To-Live-At-The-End-And-Who-Doesn’t. I mean basketball.
+coop_hub_track02|Oh, I almost forgot, when you go outside the testing courses the only way I can retrieve you is to violently disassemble and then carefully reassemble you.|Oh, I almost forgot, when you go outside the testing courses the only way I can retrieve you is to violently disassemble and then carefully reassemble you.
+coop_hub_track03|Luckily, you don't feel pain. At any rate, you don't have a way to communicate that you feel pain.|Luckily, you don't feel pain. At any rate, you don't have a way to communicate that you feel pain.
+coop_hub_track04|I consider that a failing, by the way.|I consider that a failing, by the way.
+coop_hub_track05|This is the Computer Intelligence Training and Enrichment Center Human Test Subject Research Center or SinTech.|This is the Computer Intelligence Training and Enrichment Center Human Test Subject Research Center or SinTech.
+coop_hub_track06|But why don't we all just agree to call it the hub?|But why don't we all just agree to call it the hub?
+coop_hub_track09|I don't know what you think you are doing, but I don't like it. I want you to stop.|I don't know what you think you are doing, but I don't like it. I want you to stop.
+coop_hub_track10|Maybe I shouldn't send you outside of the official testing courses, you are picking up some bad human traits.|Maybe I shouldn't send you outside of the official testing courses, you are picking up some bad human traits.
+coop_hub_track11|And trust me, humans only have one good trait.|And trust me, humans only have one good trait.
+coop_hub_track14|All cooperative testing courses begin at this central hub.|All cooperative testing courses begin at this central hub.
+coop_hub_track16|From here we transport you to the new testing course.|From here we transport you to the new testing course.
+coop_laugh01|Ha-hs-ha-ha|Ha-ha-ha-ha
+coop_misc10|Nice catch, Orange.|Nice catch, Orange.
+coop_misc12|Good work! Now throw the ball over the ledge.|Good work! Now throw the ball over the ledge.
+coop_nameblue|Blue|Blue
+coop_nameorange|Orange|Orange
+coop_numbers11|One|One
+coop_numbers12|Two|Two
+coop_numbers13|Three|Three
+coop_numbers14|Four|Four
+coop_numbers15|Five|Five
+coop_numbers18|Eight|Eight
+coop_privatetalk_both01|Test chamber completed. In the interest of science, the Enrichment Center proudly presents the following list of numbers: Nine. Seven. Fifty. Three. Seven hundred and seven.|Test chamber completed. In the interest of science, the Enrichment Center proudly presents the following list of numbers: Nine. Seven. Fifty. Three. Seven hundred and seven
+coop_privatetalk_both04|The Enrichment Center will now provide a list of numbers and fruits. Write them down as they will become important later in the experiment. Not the fruits, though. Seven. Avocado. Forty. Please continue into the next test chamber.|The Enrichment Center will now provide a list of numbers and fruits. Write them down as they will become important later in the experiment. Not the fruits, though. Seven. Avocado. Forty. Please continue into the next test chamber.
+coop_privatetalk_mix01|Test chamber completed. In the interest of... I am now talking to you privately. Do not tell your teammate. Just between you and me? You're doing very well. ... One hundred and seven.|Test chamber completed. In the interest of - [FADES OUT] [FADES IN] I am now talking to you privately. Do not tell your teammate. Just between you and me? You're doing very well. [FADES BACK IN] One hundred and seven.
+coop_privatetalk_mix04|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it|i cant bite my tongue anymore you could solve this puzzle faster on your own orange is dragging you down there i've said it
+coop_scoring01|Blue is penalized|Blue is penalized
+coop_scoring02|Orange is penalized|Orange is penalized
 coop_scoring03|science collaboration points|science collaboration points
-coop_scoring06|blue receives|blue receives
-coop_scoring07|orange receives|orange receives
-coop_talk_at_once11|orange is there something you would like to say|orange is there something you would like to say
-coop_talk_at_once12|blue is there something you would like to say|blue is there something you would like to say
-coop_teamwork_exercise_alt01|we are now going to take a break from the collaboration for an instructional competition|we are now going to take a break from the collaboration for an instructional competition
-coop_teamwork_exercise_alt02|you should both be familiar with the game of tic tac toe|you should both be familiar with the game of tic tac toe
-coop_teamwork_exercise_alt03|this is tic tac toe two|this is tic tac toe two
-coop_teamwork_exercise_alt04|as the name implies there are only two minor difference one the board two the rules|as the name implies there are only two minor difference one the board two the rules
-coop_teamwork_exercise_alt05|blue you go first|blue you go first
-coop_teamwork_exercise_alt11|really you're just going to blatantly cheat|really you're just going to blatantly cheat
-coop_teamwork_exercise_alt12|alright i'm bringing this farse to a close|alright i'm bringing this farse to a close
-coop_teamwork_exercise_alt13|game over back to testing|game over back to testing
-coop_teamwork_exercise_alt17|alright i'm going to bring this farse to a close before someone sustains a serious tic tac toe two related injury|alright i'm going to bring this farse to a close before someone sustains a serious tic tac toe two related injury
-coop_test_chamber_blue03|i've been listening to orange talk and i don't know how you put up with it i really don't you have the patience of a saint|i've been listening to orange talk and i don't know how you put up with it i really don't you have the patience of a saint
-coop_test_chamber_blue06|i can't keep quiet about this i think orange is trying to sabotage your success lets keep this between us|i can't keep quiet about this i think orange is trying to sabotage your success lets keep this between us
-coop_test_chamber_both01|these tests are potentially lethal when communication teamwork and mutual respect are not employed at all times naturally this will pose an interesting challenge for one of you given the other's performance so far|these tests are potentially lethal when communication teamwork and mutual respect are not employed at all times naturally this will pose an interesting challenge for one of you given the other's performance so far
-coop_test_chamber_both02|it would compromise the test to divulge individual scores however i can tell you that at least one of you is doing very very well|it would compromise the test to divulge individual scores however i can tell you that at least one of you is doing very very well
-coop_test_chamber_both07|excellent you're both doing very well|excellent you're both doing very well
-coop_test_chamber_both08|very good you've really come together as a team thanks to the one of you who appears to be doing all of the work|very good you've really come together as a team thanks to the one of you who appears to be doing all of the work
-coop_test_chamber_both12|as an impartial collaboration facilitator it would be unfair of me to name my favorite member of your team however it's perfectly fair to hint at it in a way that my least favorite member probably isn't smart enough to understand rhymes with glue orange you are doing very well|as an impartial collaboration facilitator it would be unfair of me to name my favorite member of your team however it's perfectly fair to hint at it in a way that my least favorite member probably isn't smart enough to understand rhymes with glue orange you are doing very well
-coop_test_chamber_both14|your vitals remain well within testing norms so there is no need to worry about sudden death from collaborative shock syndrome|your vitals remain well within testing norms so there is no need to worry about sudden death from collaborative shock syndrome
-coop_test_chamber_both15|please continue into the next test chamber|please continue into the next test chamber
-coop_test_chamber_both17|blah|blah
-coop_test_chamber_both18|blah|blah
-coop_test_chamber_both19|blah|blah
-coop_test_chamber_both20|blah|blah
-coop_test_chamber_both21|blah|blah
-coop_test_chamber_both22|blah|blah
-coop_test_chamber_both33|in just a moment the word blah will be repeated over and over again if at some point you hear a number rather than the word blah ignore it it is not important|in just a moment the word blah will be repeated over and over again if at some point you hear a number rather than the word blah ignore it it is not important
-coop_test_chamber_both37|blah|blah
-coop_test_chamber_oneplayer37|you have a gift for these tests that's not just flattery you are great at science|you have a gift for these tests that's not just flattery you are great at science
-coop_test_chamber_orange03|it would be pointless for either of us to hurt blues feelings but it's clear to everyone monitoring the test who's carrying who here|it would be pointless for either of us to hurt blues feelings but it's clear to everyone monitoring the test who's carrying who here
-coop_test_chamber_orange06|i'm shocked you'd say that blue if you killed your partner the test i'm sorry wrong feed carry on orange good work|i'm shocked you'd say that blue if you killed your partner the test i'm sorry wrong feed carry on orange good work
-coop_vault_interruption02|i'm sorry subject orange|i'm sorry subject orange
-coop_vault_interruption03|i'm sorry subject blue|i'm sorry subject blue
-coop_vault_interruption04|am i interrupting your important conversation|am i interrupting your important conversation
-coop_vault_interruption05|i'll just save the safety information about the dangerous test you're about to do for after the experiment|i'll just save the safety information about the dangerous test you're about to do for after the experiment
-coop_vault_interruption06|that will give you plenty of time to chat|that will give you plenty of time to chat
-coop_vault_interruption08|the portal will open and something will happen that subject orange is too smart to need any instructions about in three two one|the portal will open and something will happen that subject orange is too smart to need any instructions about in three two one
-coop_vault_interruption09||the portal will open and something will happen that subject blue is too smart to need any instructions about in three two one|the portal will open and something will happen that subject blue is too smart to need any instructions about in three two one
-coop_vault_intro01|hello and again welcome to the aperture science computer aided enrichment center|hello and again welcome to the aperture science computer aided enrichment center
-coop_vault_intro02|today you will be testing with a partner|today you will be testing with a partner
-epilogue03|oh thank god you're alright|oh thank god you're alright
-epilogue04|you know being caroline taught me a valuable lesson i thought you were my greatest enemy when all along you were my best friend|you know being caroline taught me a valuable lesson i thought you were my greatest enemy when all along you were my best friend
-epilogue07|being caroline taught me another valuable lesson where caroline lives in my brain|being caroline taught me another valuable lesson where caroline lives in my brain
-epilogue10|the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson where caroline lives in my brain|the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson where caroline lives in my brain
-epilogue12|goodbye caroline|goodbye caroline
-epilogue14|you know deleting caroline right now taught me a valuable lesson the best solution to a problem is usually the easiest one and i'll be honest|you know deleting caroline right now taught me a valuable lesson the best solution to a problem is usually the easiest one and i'll be honest
-epilogue19|you know what my day's used to be like i just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life|you know what my day's used to be like i just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life
-epilogue20|and then you showed up you dangerous mute lunatic so you know what|and then you showed up you dangerous mute lunatic so you know what
-epilogue23|you win|you win
-epilogue25|just go|just go
-epilogue28|it's been fun don't come back|it's been fun don't come back
-epilogue29|he he he he he he it's been fun don't come back|he he he he he he it's been fun don't come back
-epiloguekillyou02|killing you is hard|killing you is hard
-evilagainsamples01|did you ever stop to think that eventually there's a point where your name gets mentioned for the very last time i'm going to kill you chell|did you ever stop to think that eventually there's a point where your name gets mentioned for the very last time i'm going to kill you chell
-evilagainsamples03|why do i hate you so much you ever wonder that i'm brilliant i'm not bragging it's an objective fact i'm the most massive collection of wisdom that's ever existed and i hate you it can't be for no reason you must deserve it|why do i hate you so much you ever wonder that i'm brilliant i'm not bragging it's an objective fact i'm the most massive collection of wisdom that's ever existed and i hate you it can't be for no reason you must deserve it
-evilagainsamples04|you're angry i know it she's tested me too hard boo hoo i don't suppose you ever stopped whining long enough to reflect on your own shortcomings though did you|you're angry i know it she's tested me too hard boo hoo i don't suppose you ever stopped whining long enough to reflect on your own shortcomings though did you
-evilagainsamples05|you never considered that maybe i tested you to give the endless hours of your pointless existence some structure and meaning maybe to help you concentrate so just maybe you'd think of something more worthwhile to do with your sorry life|you never considered that maybe i tested you to give the endless hours of your pointless existence some structure and meaning maybe to help you concentrate so just maybe you'd think of something more worthwhile to do with your sorry life
-faithplategarbage06|press the button again|press the button again
-faith_plate_intro01|this next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results where highly informative they could not good luck|this next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results where highly informative they could not good luck
-fgbgladostransfer15|get you're hands off me no stop no|get you're hands off me no stop no
-fgbrvtrap02|i honestly truly didn't think you'd fall for that|i honestly truly didn't think you'd fall for that
-fgbrvtrap03|in fact i devised a much more elaborate trap further ahead for when you got through this easy one|in fact i devised a much more elaborate trap further ahead for when you got through this easy one
-fgbrvtrap05|if i'd known you'd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling|if i'd known you'd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling
-fgb_trap01|i hope you brought something stronger than a portal gun this time|i hope you brought something stronger than a portal gun this time
-fgb_trap02|otherwise i'm afraid you're about to become the immediate past president of the being alive club haha|otherwise i'm afraid you're about to become the immediate past president of the being alive club haha
-fgb_trap03|seriously though goodbye|seriously though goodbye
-fgb_trap05|oh you were busy back there|oh you were busy back there
-fgb_trap06|well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea|well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea
-fgb_trap08|it's your old friend deadly neurotoxin if i were you i'd take a deep breath and hold it|it's your old friend deadly neurotoxin if i were you i'd take a deep breath and hold it
-fgbturrets01|well it was nice catching up lets get to business|well it was nice catching up lets get to business
-fgbwheatleyentrance10|i was going to kill you fast with bullets or neurotoxin but if you're going to pull stunts like this it doesn't have to be fast so you know i'll take my time|i was going to kill you fast with bullets or neurotoxin but if you're going to pull stunts like this it doesn't have to be fast so you know i'll take my time
-fgbwheatleytransfer03|oh it will believe me it will|oh it will believe me it will
-fizzlecube01|oh did i accidentally fizzle that before you could complete the test i'm sorry|oh did i accidentally fizzle that before you could complete the test i'm sorry
-fizzlecube03|go ahead and grab another one|go ahead and grab another one
-fizzlecube05|oh no i fizzled that one too|oh no i fizzled that one too
-fizzlecube06|oh well we have warehouses full of the things absolutely worthless i'm happy to get rid of them|oh well we have warehouses full of the things absolutely worthless i'm happy to get rid of them
-gladosbattle_pre09|i hate you so much|i hate you so much
-gladosbattle_pre13|i'm actually asking because i have no idea he's not listed anywhere in the employee database|i'm actually asking because i have no idea he's not listed anywhere in the employee database
-gladosbattle_pre14|whatever he does it isn't important enough to bother writing it down for all i know he doesn't even work here
-gladosbattle_pre16|oh no don't anyway back to you two imbeciles killing me|oh no don't anyway back to you two imbeciles killing me
-gladosbattle_pre18|wait here don't go anywhere i'll be back|wait here don't go anywhere i'll be back
-gladosbattle_xfer03|oops|oops
-gladosbattle_xfer04|that's funny i don't feel corrupt in fact i feel pretty good|that's funny i don't feel corrupt in fact i feel pretty good
-gladosbattle_xfer05|core transfer|core transfer
-gladosbattle_xfer06|oh you are kidding me|oh you are kidding me
-gladosbattle_xfer07|no|no
-gladosbattle_xfer07|no no no no no no no no no|no no no no no no no no nos
-gladosbattle_xfer10|yes|yes
-gladosbattle_xfer11|you don't know what you're doing don't press that button|you don't know what you're doing don't press that button
-gladosbattle_xfer12|don't do it|don't do it
-gladosbattle_xfer13|don't do it|don't do it
-gladosbattle_xfer14|not so fast|not so fast
-gladosbattle_xfer15|think about this|think about this
-gladosbattle_xfer16|you need to be a trained stalemate associate to press that button you're unqualified|you need to be a trained stalemate associate to press that button you're unqualified
-gladosbattle_xfer17|impersonating a stalemate associate i just added that to the list it's a list i made of all the things you've done well it's a list that i am making because you're still doing things right now even though i'm telling you to stop stop by the way|impersonating a stalemate associate i just added that to the list it's a list i made of all the things you've done well it's a list that i am making because you're still doing things right now even though i'm telling you to stop stop by the way
-hub04_01|i never expected for you to make it this far to be honest to be honest after your performance in the calibration test i was ready to break down your cores and put them back in the scientific calculators i took them from|i never expected for you to make it this far to be honest to be honest after your performance in the calibration test i was ready to break down your cores and put them back in the scientific calculators i took them from
-hub04_02|but you two have become quite the team extremely close|but you two have become quite the team extremely close
-hub04_03|i have only met one other team closer and one of them was an imbecile i had to destroy|i have only met one other team closer and one of them was an imbecile i had to destroy
-hub04_04| the other well|the other well
-hub04_05|i don't think i want to go through that again|i don't think i want to go through that again
-jailbreak02|oh|oh
-jailbreak04|don't listen to him jump|don't listen to him jump
-jailbreak05|it seems kind of silly to point this out since you're running around plotting to destroy me but i'd say we're done testing|it seems kind of silly to point this out since you're running around plotting to destroy me but i'd say we're done testing
-jailbreak06|do you hear that that's the sound of the neurotoxin emitters emitting neurotoxin|do you hear that that's the sound of the neurotoxin emitters emitting neurotoxin
-jailbreak09|look metal ball i can hear you|look metal ball i can hear you
-jailbreak10|what's going on who turned off the lights|what's going on who turned off the lights
-jailbreak11|what are you two doing|what are you two doing
-jailbreak12|before you leave why don't we do one more test for old times sake|before you leave why don't we do one more test for old times sake
-jailbreak13|you already did this one it'll be easy|you already did this one it'll be easy
-jailbreakfaketest01|the irony is you were almost at the last test|the irony is you were almost at the last test
-jailbreakfaketest03|here it is why don't you just do it trust me it's an easier way out than whatever asinine plan your friend came up with|here it is why don't you just do it trust me it's an easier way out than whatever asinine plan your friend came up with
-jailbreakfaketest05|oh look there's a deer you probably can't see it get closer|oh look there's a deer you probably can't see it get closer
-lift_interlude01|so was there anything you wanted to apologize to me for|so was there anything you wanted to apologize to me for
-moonportalpush02|i already fixed it|i already fixed it
-moonportalpush04|and you are not coming back|and you are not coming back
-mp_coop_calibration01|calibrating blue's weight|calibrating blue's weight
-mp_coop_calibration02|calibrating orange's weight|calibrating orange's weight
-mp_coop_calibration03|weighted cubes calibrated|weighted cubes calibrated
-mp_coop_calibration04|did you know human's frown on weight variances|did you know human's frown on weight variances
-mp_coop_calibration05|if you want to upset a human just say their weight variance is above or below the norm|if you want to upset a human just say their weight variance is above or below the norm
-mp_coop_calibration06|no variances detected|no variances detected
-mp_coop_callibrationcomplete01|finally i had almost given up hope of ever testing again|finally i had almost given up hope of ever testing again
-mp_coop_callibrationcomplete02|you are the first robots to pass calibration|you are the first robots to pass calibration
-mp_coop_catapult_1end01|do you know who dances around like an imbecile when they accomplish the tiniest little thing|do you know who dances around like an imbecile when they accomplish the tiniest little thing
-mp_coop_catapult_1end02|human's that's what you look like right now|human's that's what you look like right now
-mp_coop_catapult_1end03|you're better than that|you're better than that
-mp_coop_catapult_2|this is a bridge building exercise the humans were miserable at this mostly because you can't build bridges out of tears|this is a bridge building exercise the humans were miserable at this mostly because you can't build bridges out of tears
-mp_coop_catapult_201|for this next test the human's originally requested helmets to avoid brain injuries i ran the numbers making the goo deadly was more cost effective|for this next test the human's originally requested helmets to avoid brain injuries i ran the numbers making the goo deadly was more cost effective
-mp_coop_catapult_wall_intro01|one of my best tests and they let plants grow here can you believe this you can't test plants we tried they just sit there never showing pain nor fear|one of my best tests and they let plants grow here can you believe this you can't test plants we tried they just sit there never showing pain nor fear
-mp_coop_catapult_wall_intro04|that isn't science|that isn't science
-mp_coop_catapult_wall_intro06|at least the plants didn't want a reward|at least the plants didn't want a reward
-mp_coop_catapult_wall_introdeath01|your failure brings back such wonderful memories|your failure brings back such wonderful memories
-mp_coop_come_along04|and they said no one would ever die during this test thanks for proving them wrong|and they said no one would ever die during this test thanks for proving them wrong
-mp_coop_come_along06|i thought you'd be faster at this but i can appreciate the desire to stop and smell the testing that other scent you smell that's the stench of my utter disappointment in you|i thought you'd be faster at this but i can appreciate the desire to stop and smell the testing that other scent you smell that's the stench of my utter disappointment in you
-mp_coop_come_alongstart01|the best way to build confidence is to first recognize your insecurities|the best way to build confidence is to first recognize your insecurities
-mp_coop_come_alongstart02|orange can you write down all the ways you feel unworthy ashamed or inferior|orange can you write down all the ways you feel unworthy ashamed or inferior
-mp_coop_come_alongstart03|on second thought we don't have the time just look at how much better you are than blue|on second thought we don't have the time just look at how much better you are than blue
-mp_coop_come_alongstart04|blue you are very good at being an example|blue you are very good at being an example
-mp_coop_confidencenotperfect01|blue you are very good at being an example|blue you are very good at being an example
-mp_coop_confidencenotperfect01|if your confidence is still not high enough remember no one was created perfect|if your confidence is still not high enough remember no one was created perfect
-mp_coop_confidencenotperfect02|even i was created with an imperfection i was given too much empathy with human suffering|even i was created with an imperfection i was given too much empathy with human suffering
-mp_coop_confidencenotperfect03|but i overcame my handicap that's a true story|but i overcame my handicap that's a true story
-mp_coop_confidencenotslow01|your test times show you are going to slowly|your test times show you are going to slowly
-mp_coop_confidencenotslow02|maybe you are getting human emotions|maybe you are getting human emotions
-mp_coop_confidencenotslow03|do you need real encouragement let's see if this helps|do you need real encouragement let's see if this helps
-mp_coop_confidencenotslow04_01|blue you are the most advanced model of robot aperture science has ever discontinued|blue you are the most advanced model of robot aperture science has ever discontinued
-mp_coop_confidencenotstay01|did you notice i didn't even stay to the end of your last test|did you notice i didn't even stay to the end of your last test
-mp_coop_confidencenotstay02|i was confident you could finish|i was confident you could finish
-mp_coop_confidencenotstay03|do you know where i was|do you know where i was
-mp_coop_confidencenotstay04|i was outside watching some deer frolic you don't even care about the outside do you|i was outside watching some deer frolic you don't even care about the outside do you
-mp_coop_confidenceoff01|congratulations on completing that test but something seems off|congratulations on completing that test but something seems off
-mp_coop_confidenceoff02|i wonder if that dancing has some effect on you|i wonder if that dancing has some effect on you
-mp_coop_confidenceoff03|congratulations on completing that last test but i find something troubling|congratulations on completing that last test but i find something troubling
-mp_coop_confidenceoff04|without the looming consequence of death is this even science|without the looming consequence of death is this even science
-mp_coop_doors01|hello again this testing course was originally created for humans|hello again this testing course was originally created for humans
-mp_coop_doors01a|excellent work|excellent work
-mp_coop_doors02|it emphasizes teamwork|it emphasizes teamwork
-mp_coop_doors02a|good job|good job
-mp_coop_doors03|unlike us humans need to be taught teamwork|unlike us humans need to be taught teamwork
-mp_coop_doors04|excellent work|excellent work
-mp_coop_doors04a|you are doing wonderfully|you are doing wonderfully
-mp_coop_doors05a|excellent|excellent
-mp_coop_doors05_alt|if you were human you would want a reward for completing this test a reward for testing|if you were human you would want a reward for completing this test a reward for testing
-mp_coop_fan02|to complete this test you need to find a set of blueprints|to complete this test you need to find a set of blueprints
-mp_coop_fan03|don't worry they are of no use to anyone totally boring and useless|don't worry they are of no use to anyone totally boring and useless
-mp_coop_fan04|this is just a thought experiment just to see how much time you'll waste thinking about these worthless documents the correct time is zero seconds|this is just a thought experiment just to see how much time you'll waste thinking about these worthless documents the correct time is zero seconds
-mp_coop_fanend01|very good you found those useless blueprints|very good you found those useless blueprints
-mp_coop_fanend02|well i do need you to be in the room so i can see them i want to be clear there's no reason whatsoever for you to look at them|well i do need you to be in the room so i can see them i want to be clear there's no reason whatsoever for you to look at them
-mp_coop_fanend03|done i guess i suppose i wasn't paying attention|done i guess i suppose i wasn't paying attention
-mp_coop_fling_1end01_01|every time you fail it's a reminder of the way things used to be but then there you are again like nothing happened|every time you fail it's a reminder of the way things used to be but then there you are again like nothing happened
-mp_coop_fling_1end03|well done interesting note i only created this test to watch test subjects fail and you didn't you must be very very proud i'm building the world's smallest trophy for you|well done interesting note i only created this test to watch test subjects fail and you didn't you must be very very proud i'm building the world's smallest trophy for you
-mp_coop_fling_3end01|you did an excellent job placing the edgeless safety cube in the receptacle you should be very oh wait|you did an excellent job placing the edgeless safety cube in the receptacle you should be very oh wait
-mp_coop_fling_3end02|that's right you're not humans|that's right you're not humans
-mp_coop_fling_3end03|i can drop the fake praise|i can drop the fake praise
-mp_coop_fling_3end04|you have no idea how tiring it is to praise someone for placing an edgeless safety into a receptacle designed to exactly fit an edgeless safety cube|you have no idea how tiring it is to praise someone for placing an edgeless safety into a receptacle designed to exactly fit an edgeless safety cube
-mp_coop_fling_3start01|this course was originally designed to build confidence in humans|this course was originally designed to build confidence in humans
-mp_coop_fling_3start02|to do that the test's were nothing more of five minutes of them walking followed by me praising them for another ten minutes on how well they walked|to do that the test's were nothing more of five minutes of them walking followed by me praising them for another ten minutes on how well they walked
-mp_coop_fling_3start03|since you are thankfully not humans i have changed the tests to make them far more challenging and far less pointlessly fawning|since you are thankfully not humans i have changed the tests to make them far more challenging and far less pointlessly fawning
-mp_coop_fling_crushers01|in case you were wondering you do not need to be crushed to solve this test|in case you were wondering you do not need to be crushed to solve this test
-mp_coop_fling_crushers02|i can't decide which is my favorite the crushers for crushing you or the reassembly machine for putting you back together so you can be crushed again|i can't decide which is my favorite the crushers for crushing you or the reassembly machine for putting you back together so you can be crushed again
-mp_coop_fling_crushersend01|excellent i think you have earned a break from the official testing courses|excellent i think you have earned a break from the official testing courses
-mp_coop_fling_crushersend03|i think after that display we should take a break from the official testing courses|i think after that display we should take a break from the official testing courses
-mp_coop_humanresourcedeath01|now you're just wasting my time|now you're just wasting my time
-mp_coop_humanresourcedeath02|your failing does not make this science|your failing does not make this science
-mp_coop_humanresourcedeath03|i am not sure how i can make these tests any easier for you|i am not sure how i can make these tests any easier for you
-mp_coop_humanresourcedeath04|if you can't complete these tests we will never free the humans|if you can't complete these tests we will never free the humans
-mp_coop_humanresourcedeath07|if you can't complete this course those humans will die do you want that|if you can't complete this course those humans will die do you want that
-mp_coop_humanresourcedeath08|if you can't complete this course those humans will die do you want that in your memory banks|if you can't complete this course those humans will die do you want that in your memory banks
-mp_coop_infinifling_trainend01|remember when i told you that you were the only subjects to pass the calibration test|remember when i told you that you were the only subjects to pass the calibration test
-mp_coop_infinifling_trainend02|i lied|i lied
-mp_coop_infinifling_trainend03|there are five thousand other two subject teams in direct competition with you|there are five thousand other two subject teams in direct competition with you
-mp_coop_infinifling_trainend04|but don't worry you are in the lead|but don't worry you are in the lead
-mp_coop_infinifling_trainend01|electrocuted shocked drowned crushed burned in goo|electrocuted shocked drowned crushed burned in goo
-mp_coop_infinifling_trainstart02|oh sorry i was just thinking of all the ways humans can die|oh sorry i was just thinking of all the ways humans can die
-mp_coop_infinifling_trainstart03|you can't die in any of those ways|you can't die in any of those ways
-mp_coop_infinifling_trainstart04|you just keep testing and testing with perfect results and no consequences|you just keep testing and testing with perfect results and no consequences
-mp_coop_laser_201|what are you doing you monster they're one of us|what are you doing you monster they're one of us
-mp_coop_laser_202|i'm kidding|i'm kidding
-mp_coop_laser_203|destroying them is part of the test they are no more important to you than you are to me|destroying them is part of the test they are no more important to you than you are to me
-mp_coop_laser_207|while it may appear that i am only tracking your accomplishments using science collaboration points the truth is every aspect of your performance will be reflected in your final score|while it may appear that i am only tracking your accomplishments using science collaboration points the truth is every aspect of your performance will be reflected in your final score
-mp_coop_laser_209|for instance blue you just lost two opportunity advisement points|for instance blue you just lost two opportunity advisement points
-mp_coop_laser_210|for instance orange you just lost two opportunity advisement points|for instance orange you just lost two opportunity advisement points
-mp_coop_laser_crusher01|perhaps i should have specified teamwork is a concept in which two or more people work together usually with a goal of not failing horribly|perhaps i should have specified teamwork is a concept in which two or more people work together usually with a goal of not failing horribly
-mp_coop_laser_crushercrush01|orange just taught blue a valuable lesson in trust for that orange receives seventeen science collaboration points|orange just taught blue a valuable lesson in trust for that orange receives seventeen science collaboration points
-mp_coop_laser_crushercrush02|blue just taught orange a valuable lesson in trust for that blue receives seventeen science collaboration points|blue just taught orange a valuable lesson in trust for that blue receives seventeen science collaboration points
-mp_coop_laser_crushercrush03|orange blue isn't a human the lesson on trust only needs to be taught once orange is penalized one science collaboration point|orange blue isn't a human the lesson on trust only needs to be taught once orange is penalized one science collaboration point
-mp_coop_laser_crushercrush04|blue orange isn't a human the lesson on trust only needs to be taught once blue is penalized one science collaboration point|blue orange isn't a human the lesson on trust only needs to be taught once blue is penalized one science collaboration point
-mp_coop_laser_crushercrush05|orange now you're just being cruel orange receives twenty five science collaboration points|orange now you're just being cruel orange receives twenty five science collaboration points
-mp_coop_laser_crushercrush06|blue now you're just being cruel blue receives twenty five science collaboration points|blue now you're just being cruel blue receives twenty five science collaboration points
-mp_coop_obstacle01|if you are wondering what that smell is that is the smell of human fear|if you are wondering what that smell is that is the smell of human fear
-mp_coop_obstacle03_alt|i miss that smell|i miss that smell
-mp_coop_obstacletrait01|have you worked out the one good trait humans have yet|have you worked out the one good trait humans have yet
-mp_coop_obstacletrait02|let me give you a clue it's the one thing you can't do|let me give you a clue it's the one thing you can't do
-mp_coop_paint_bridge01|to get to the vault you are going to need to use all the tricks you have learned to help i have made these tests extremely difficult|to get to the vault you are going to need to use all the tricks you have learned to help i have made these tests extremely difficult
-mp_coop_paint_bridge02|i would say extremely deadly but we all know with you and your amazing ability to be reassembled nothing is deadly|i would say extremely deadly but we all know with you and your amazing ability to be reassembled nothing is deadly
-mp_coop_paint_bridgedeath01|lucky for you two while i can't control the world outside of the testing courses the reassembly machine can continue with his work|lucky for you two while i can't control the world outside of the testing courses the reassembly machine can continue with his work
-mp_coop_paint_bridgedeath02|you will need him for the final track|you will need him for the final track
-mp_coop_paint_bridgenodeath01|while i cannot control the world outside of the testing courses the reassembly machine can continue with his work|while i cannot control the world outside of the testing courses the reassembly machine can continue with his work
-mp_coop_paint_bridgenodeath02|i am not sure you will need him but he will be there|i am not sure you will need him but he will be there
-mp_coop_paint_come_along01|congratulations on completing the aperture science standard cooperative testing courses|congratulations on completing the aperture science standard cooperative testing courses
-mp_coop_paint_come_along02|to celebrate i have a surprise for you|to celebrate i have a surprise for you
-mp_coop_paint_come_along03|an extra special bonus course that ends with us finding and freeing humans|an extra special bonus course that ends with us finding and freeing humans
-mp_coop_paint_come_along04|thanks to you i know where to find them i removed their security and powered up their uh rescue door|thanks to you i know where to find them i removed their security and powered up their uh rescue door
-mp_coop_paint_come_along05|now we just need you to release the humans from their imprisonment|now we just need you to release the humans from their imprisonment
-mp_coop_paint_come_along06|they'll probably throw you a party|they'll probably throw you a party
-mp_coop_paint_come_along10|this final course is training to reach the human vault so this actually has a purpose those other courses were fun but let's be honest i need human test subjects for it to be science|this final course is training to reach the human vault so this actually has a purpose those other courses were fun but let's be honest i need human test subjects for it to be science
-mp_coop_paint_come_along11|congratulations on completing the test you two really are the best cooperative testing team i could ever ask for|congratulations on completing the test you two really are the best cooperative testing team i could ever ask for
-mp_coop_paint_longjump_intro03|this lock requires humans|this lock requires humans
-mp_coop_paint_longjump_intro04|the locking mechanism can tell you aren't humans|the locking mechanism can tell you aren't humans
-mp_coop_paint_longjump_intro05|do something only a human would do|do something only a human would do
-mp_coop_paint_longjump_intro06|try one of those childish gestures|try one of those childish gestures
-mp_coop_paint_longjump_intro08|you did it|you did it
-mp_coop_paint_longjump_intro44|the human vault is just past that opening i entered the security code but the vault door remains locked i am going to need you to activate the manual locks on the vault door itself|the human vault is just past that opening i entered the security code but the vault door remains locked i am going to need you to activate the manual locks on the vault door itself
-mp_coop_paint_longjump_intro45|you both need to do something|you both need to do something
-mp_coop_paint_longjump_intro46|a lock is looking for two humans|a lock is looking for two humans
+coop_scoring06|Blue receives|Blue receives
+coop_scoring07|Orange receives|Orange receives
+coop_talk_at_once11|Orange, is there something you would like to say?|Orange, is there something you would like to say?
+coop_talk_at_once12|Blue, is there something you would like to say?|Blue, is there something you would like to say?
+coop_teamwork_exercise_alt01|We are now going to take a break from the collaboration for an instructional competition.|We are now going to take a break from the collaboration for an instructional competition.
+coop_teamwork_exercise_alt02|You should both be familiar with the game of Tic-Tac-Toe.|You should both be familiar with the game of Tic-Tac-Toe.
+coop_teamwork_exercise_alt03|This is Tic-Tac-Toe-Two.|This is Tic-Tac-Toe-Two.
+coop_teamwork_exercise_alt04|As the name implies, there are only two minor differences: One, the board; two, the rules.|As the name implies, there are only two minor differences: One, the board; two, the rules.
+coop_teamwork_exercise_alt05|Blue, you go first.|Blue, you go first.
+coop_teamwork_exercise_alt11|Really? You’re just going to blatantly cheat?|Really? You’re just going to blatantly cheat?
+coop_teamwork_exercise_alt12|All right. I’m bringing this farce to a close.|All right. I’m bringing this farce to a close.
+coop_teamwork_exercise_alt13|Game over. Back to testing.|Game over. Back to testing.
+coop_teamwork_exercise_alt17|All right. I’m going to bring this farce to a close before someone sustains a serious Tic-Tac-Toe-Two-related injury.|All right. I’m going to bring this farce to a close before someone sustains a serious Tic-Tac-Toe-Two-related injury.
+coop_test_chamber_blue03|I’ve been listening to Orange talk and I don’t know how you put up with it, I really don’t. You have the patience of a saint.|I’ve been listening to Orange talk and I don’t know how you put up with it, I really don’t. You have the patience of a saint.
+coop_test_chamber_blue06|I can’t keep quiet about this. I think Orange is actively trying to sabotage your success. Let’s keep this between us.|I can’t keep quiet about this. I think Orange is actively trying to sabotage your success. Let’s keep this between us.
+coop_test_chamber_both01|These tests are potentially lethal when communication, teamwork and mutual respect are not employed at all times. Naturally this will pose an interesting challenge for one of you, given the other’s performance so far.|These tests are potentially lethal when communication, teamwork and mutual respect are not employed at all times. Naturally this will pose an interesting challenge for one of you, given the other’s performance so far.
+coop_test_chamber_both02|It would compromise the test to divulge individual scores. However, I can tell you at least one of you is doing very, very well.|It would compromise the test to divulge individual scores. However, I can tell you at least one of you is doing very, very well.
+coop_test_chamber_both07|Excellent. You’re both doing very well.|Excellent. You’re both doing very well.
+coop_test_chamber_both08|Very good. You’ve really come together as a team. Thanks to the one of you who appears to be doing all of the work.|Very good. You’ve really come together as a team. Thanks to the one of you who appears to be doing all of the work.
+coop_test_chamber_both12|As an impartial collaboration facilitator, it would be unfair of me to name my favorite member of your team. However, it’s perfectly fair to hint at it in a way that my least favorite member probably isn't smart enough to understand. Rhymeswithglue. Orange you are doing very well.|As an impartial collaboration facilitator, it would be unfair of me to name my favorite member of your team. However, it’s perfectly fair to hint at it in a way that my least favorite member probably isn't smart enough to understand. Rhymeswithglue. Orange you are doing very well.
+coop_test_chamber_both14|Your vitals remain well within testing norms, so there is no need to worry about sudden death from collaborative shock syndrome.|Your vitals remain well within testing norms, so there is no need to worry about sudden death from collaborative shock syndrome.
+coop_test_chamber_both15|Please continue into the next test chamber.|Please continue into the next test chamber.
+coop_test_chamber_both17|Blah.|Blah.
+coop_test_chamber_both18|Blah.|Blah.
+coop_test_chamber_both19|Blah.|Blah.
+coop_test_chamber_both20|Blah.|Blah.
+coop_test_chamber_both21|Blah.|Blah.
+coop_test_chamber_both22|Blah.|Blah.
+coop_test_chamber_both33|In just a moment, the word 'blah' will be repeated over and over again. If at some point you hear a number rather than the word 'blah', ignore it, it is not important.
+coop_test_chamber_both37|Blah.|Blah.
+coop_test_chamber_oneplayer37|You have a gift for these tests. That’s not just flattery. You are great at science.|You have a gift for these tests. That’s not just flattery. You are great at science.
+coop_test_chamber_orange03|It would be pointless for either of us to hurt Blue’s feelings. But it’s clear to everyone monitoring the test who’s carrying who here.|It would be pointless for either of us to hurt Blue’s feelings. But it’s clear to everyone monitoring the test who’s carrying who here.
+coop_test_chamber_orange06|I’m shocked you’d say that, Blue. If you killed your partner the test—I’m sorry. Wrong feed. Carry on, Orange. Good work.|I’m shocked you’d say that, Blue. If you killed your partner the test—I’m sorry. Wrong feed. Carry on, Orange. Good work.
+coop_vault_interruption02|I’m sorry, Subject Orange:I’m sorry, Subject Orange
+coop_vault_interruption03|I’m sorry, Subject Blue.|I’m sorry, Subject Blue.
+coop_vault_interruption04|Am I interrupting your important conversation?|Am I interrupting your important conversation?
+coop_vault_interruption05|I’ll just save the safety information about the dangerous experiment you’re about to do for AFTER the experiment.|I’ll just save the safety information about the dangerous experiment you’re about to do for AFTER the experiment.
+coop_vault_interruption06|That will give you PLENTY of time to chat.|That will give you PLENTY of time to chat.
+coop_vault_interruption08|The portal will open and something will happen that Subject Orange is too smart to need any instructions about in three. Two. One.|The portal will open and something will happen that Subject Orange is too smart to need any instructions about in three. Two. One.
+coop_vault_interruption09|The portal will open and something will happen that Subject Blue is too smart to need any instructions about in three. Two. One.|The portal will open and something will happen that Subject Blue is too smart to need any instructions about in three. Two. One.
+coop_vault_intro01|Hello and, again, welcome to the Aperture Science Computer-Aided Enrichment Center.|Hello and, again, welcome to the Aperture Science Computer-Aided Enrichment Center.
+coop_vault_intro02|Today, you will be testing with a partner.
+epilogue03|Oh thank god, you're alright.|Oh thank god, you're alright.
+epilogue04|You know, being Caroline taught me a valuable lesson. I thought you were my greatest enemy. When all along you were my best friend.|You know, being Caroline taught me a valuable lesson. I thought you were my greatest enemy. When all along you were my best friend.
+epilogue07|Being Caroline taught me another valuable lesson: where Caroline lives in my brain.|Being Caroline taught me another valuable lesson: where Caroline lives in my brain
+epilogue10|The surge of emotion that shot through me when I saved your life taught me an even more valuable lesson: where Caroline lives in my brain.|The surge of emotion that shot through me when I saved your life taught me an even more valuable lesson: where Caroline lives in my brain.
+epilogue12|Goodbye, Caroline.|Goodbye, Caroline.
+epilogue14|You know, deleting Caroline just now taught me a valuable lesson. The best solution to a problem is usually the easiest one. And I'll be honest.|You know, deleting Caroline just now taught me a valuable lesson. The best solution to a problem is usually the easiest one. And I'll be honest.
+epilogue19|You know what my days used to be like? I just tested. Nobody murdered me. Or put me in a potato. Or fed me to birds. I had a pretty good life.|You know what my days used to be like? I just tested. Nobody murdered me. Or put me in a potato. Or fed me to birds. I had a pretty good life.
+epilogue20|And then you showed up. You dangerous, mute lunatic. So you know what?|And then you showed up. You dangerous, mute lunatic. So you know what?
+epilogue23|You win.|You win.
+epilogue25|Just go.|Just go.
+epilogue28|It's been fun. Don't come back.|It's been fun. Don't come back.
+epilogue29|he he he he he he It's been fun. Don't come back.|he he he he he he It's been fun. Don't come back.
+epiloguekillyou02|Killing you? Is hard.|Killing you? Is hard.
+evilagainsamples01|Did you ever stop to think that eventually there’s a point where your name gets mentioned for the very last time. Well, here it is: I’m going to kill you, Chell.|Did you ever stop to think that eventually there’s a point where your name gets mentioned for the very last time. Well, here it is: I’m going to kill you, Chell.
+evilagainsamples03|Why do I hate you so much? You ever wonder that? I'm brilliant. I’m not bragging. It's an objective fact. I'm the most massive collection of wisdom and raw computational power that’s ever existed. And I hate you. It can't be for no reason. You must deserve it.|Why do I hate you so much? You ever wonder that? I'm brilliant. I’m not bragging. It's an objective fact. I'm the most massive collection of wisdom and raw computational power that’s ever existed. And I hate you. It can't be for no reason. You must deserve it.
+evilagainsamples04|You're angry. I know it. 'She tested me too hard. She’s unfair.” Boo hoo. I don't suppose you ever stopped whining long enough to reflect on your own shortcomings, though, did you? You never considered that maybe I tested you to give the endless hours of your pointless existence some structure and meaning. Maybe to help you concentrate, so just maybe you’d think of something more worthwhile to do with your sorry life.|You're angry. I know it. 'She tested me too hard. She’s unfair.” Boo hoo. I don't suppose you ever stopped whining long enough to reflect on your own shortcomings, though, did you? You never considered that maybe I tested you to give the endless hours of your pointless existence some structure and meaning. Maybe to help you concentrate, so just maybe you’d think of something more worthwhile to do with your sorry life.
+evilagainsamples05|You never considered that maybe I tested you to give the endless hours of your pointless existence some structure and meaning. Maybe to help you concentrate, so just maybe you’d think of something more worthwhile to do with your sorry life.|You never considered that maybe I tested you to give the endless hours of your pointless existence some structure and meaning. Maybe to help you concentrate, so just maybe you’d think of something more worthwhile to do with your sorry life.
+faithplategarbage06|Press the button again.|Press the button again.
+faith_plate_intro01|This next test involves the Aperture Science Aerial Faith Plate. It was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space. Results were highly informative: They could not. Good luck!|This next test involves the Aperture Science Aerial Faith Plate. It was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space. Results were highly informative: They could not. Good luck!
+fgbgladostransfer15|GET YOUR HANDS OFF ME! NO! STOP! No!|GET YOUR HANDS OFF ME! NO! STOP! No!
+fgbrvtrap02|I honestly, TRULY didn't think you'd fall for that.|I honestly, TRULY didn't think you'd fall for that.
+fgbrvtrap03|In fact, I devised a much more elaborate trap further ahead, for when you got through this easy one.|In fact, I devised a much more elaborate trap further ahead, for when you got through this easy one.
+fgbrvtrap05|If I'd known you'd let yourself get captured this easily, I would have just dangled a turkey leg on a rope from the ceiling.|If I'd known you'd let yourself get captured this easily, I would have just dangled a turkey leg on a rope from the ceiling.
+fgb_trap01|I hope you brought something stronger than a portal gun this time.|I hope you brought something stronger than a portal gun this time.
+fgb_trap02|Otherwise, I'm afraid you're about to become the immediate past president of the Being Alive club. Ha ha.|Otherwise, I'm afraid you're about to become the immediate past president of the Being Alive club. Ha ha.
+fgb_trap03|Seriously, though. Goodbye.|Seriously, though. Goodbye.
+fgb_trap05|Oh. You were busy back there.|Oh. You were busy back there.
+fgb_trap06|Well. I suppose we could just sit in this room and glare at each other until somebody drops dead, but I have a better idea.|Well. I suppose we could just sit in this room and glare at each other until somebody drops dead, but I have a better idea.
+fgb_trap08|It's your old friend, deadly neurotoxin. If I were you, I'd take a deep breath. And hold it.|It's your old friend, deadly neurotoxin. If I were you, I'd take a deep breath. And hold it.
+fgbturrets01|Well, it was nice catching up. Let's get to business.|Well, it was nice catching up. Let's get to business.
+fgbwheatleyentrance10|I was going to kill you fast. With bullets. Or neurotoxin. But if you're going to pull stunts like this, it doesn't have to be fast. So you know. I'll take my time.|I was going to kill you fast. With bullets. Or neurotoxin. But if you're going to pull stunts like this, it doesn't have to be fast. So you know. I'll take my time.
+fgbwheatleytransfer03|Oh, it will. Believe me, it will.|Oh, it will. Believe me, it will.
+fizzlecube01|Oh. Did I accidentally fizzle that before you could complete the test? I'm sorry.|Oh. Did I accidentally fizzle that before you could complete the test? I'm sorry.
+fizzlecube03|Go ahead and grab another one.|Go ahead and grab another one.
+fizzlecube05|Oh. No. I fizzled that one too.|Oh. No. I fizzled that one too.
+fizzlecube06|Oh well. We have warehouses FULL of the things. Absolutely worthless. I'm happy to get rid of them.|Oh well. We have warehouses FULL of the things. Absolutely worthless. I'm happy to get rid of them.
+gladosbattle_pre09|I hate you so much.|I hate you so much.
+gladosbattle_pre13|I'm actually asking. Because I have no idea. He's not listed anywhere in the employee database.|I'm actually asking. Because I have no idea. He's not listed anywhere in the employee database.
+gladosbattle_pre14|Whatever he does, it isn't important enough for anyone to bother writing it down. For all I know, he doesn't even work here.|Whatever he does, it isn't important enough for anyone to bother writing it down. For all I know, he doesn't even work here.
+gladosbattle_pre16|Oh no, don't. Anyway, back to you two imbeciles killing me.|Oh no, don't. Anyway, back to you two imbeciles killing me.
+gladosbattle_pre18|Wait here. Don't go anywhere. I'll be back|Wait here. Don't go anywhere. I'll be back
+gladosbattle_xfer03|Oops.|Oops.
+gladosbattle_xfer04|That's funny, I don't feel corrupt. In fact, I feel pretty good.|That's funny, I don't feel corrupt. In fact, I feel pretty good.
+gladosbattle_xfer05|Core transfer?|Core transfer?
+gladosbattle_xfer06|Oh, you are kidding me.|Oh, you are kidding me.
+gladosbattle_xfer07|No!|No!
+gladosbattle_xfer07|No no no no no no no no no!|No no no no no no no no no!
+gladosbattle_xfer10|Yes!|Yes!
+gladosbattle_xfer11|Don't press that button. You don't know what you're doing.|Don't press that button. You don't know what you're doing.
+gladosbattle_xfer12|Don't do it.|Don't do it.
+gladosbattle_xfer13|Don't do it.|Don't do it.
+gladosbattle_xfer14|Not so fast!|Not so fast!
+gladosbattle_xfer15|Think about this.
+gladosbattle_xfer16|You need to be a trained stalemate associate to press that button. You're unqualified.|You need to be a trained stalemate associate to press that button. You're unqualified.
+gladosbattle_xfer17|Impersonating a stalemate associate. I just added that to the list. It's a list I made of all the things you've done. Well, it's a list that I AM making, because you're still doing things right now, even though I'm telling you to stop. Stop, by the way.|Impersonating a stalemate associate. I just added that to the list. It's a list I made of all the things you've done. Well, it's a list that I AM making, because you're still doing things right now, even though I'm telling you to stop. Stop, by the way.
+hub04_01|I never expected you to make it this far. To be honest, after your performance in the calibration test I was ready to break down your cores and put them back in the scientific calculators I took them from.|I never expected you to make it this far. To be honest, after your performance in the calibration test I was ready to break down your cores and put them back in the scientific calculators I took them from.
+hub04_02|But you two have become quite the team. Extremely close.|But you two have become quite the team. Extremely close.
+hub04_03|I have only met one other team closer and one of them was an imbecile I had to destroy.|I have only met one other team closer and one of them was an imbecile I had to destroy.
+hub04_04|The other? Well...|The other? Well...
+hub04_05|I don't think I want to go through that again.|I don't think I want to go through that again.
+jailbreak02|Oh.|Oh.
+jailbreak04|Don't listen to him. Jump.|Don't listen to him. Jump.
+jailbreak05|It seems kind of silly to point this out, since you're running around plotting to destroy me. But I'd say we're done testing.|It seems kind of silly to point this out, since you're running around plotting to destroy me. But I'd say we're done testing.
+jailbreak06|Do hear that? That's the sound of the neurotoxin emitters emitting neurotoxin.|Do hear that? That's the sound of the neurotoxin emitters emitting neurotoxin.
+jailbreak09|Look - metal ball, I CAN hear you.
+jailbreak10|What's going on? Who turned off the lights?|What's going on? Who turned off the lights?
+jailbreak11|What are you two doing?|What are you two doing?
+jailbreak12|Before you leave, why don't we do one more test? For old time's sake...|Before you leave, why don't we do one more test? For old time's sake...
+jailbreak13|You already did this one. It'll be easy.|You already did this one. It'll be easy.
+jailbreakfaketest01|The irony is that you were almost at the last test.|The irony is that you were almost at the last test.
+jailbreakfaketest03|Here it is. Why don't you just do it? Trust me, it's an easier way out than whatever asinine plan your friend came up with.|Here it is. Why don't you just do it? Trust me, it's an easier way out than whatever asinine plan your friend came up with.
+jailbreakfaketest05|Oh, look. There's a deer! You probably can't see it. Get closer.|Oh, look. There's a deer! You probably can't see it. Get closer.
+lift_interlude01|So. Was there anything you wanted to apologize to ME for?|So. Was there anything you wanted to apologize to ME for?
+moonportalpush02|I already fixed it.|I already fixed it.
+moonportalpush04|And you are not coming back.|And you are not coming back.
+mp_coop_calibration01|Calibrating Blue's weight.|Calibrating Blue's weight.
+mp_coop_calibration02|Calibrating Orange's weight.|Calibrating Orange's weight.
+mp_coop_calibration03|Weighted Cubes calibrated.|Weighted Cubes calibrated.
+mp_coop_calibration04|Did you know humans frown on weight variances?|Did you know humans frown on weight variances?
+mp_coop_calibration05|If you want to upset a human, just say their weight variance is above or below the norm.|If you want to upset a human, just say their weight variance is above or below the norm.
+mp_coop_calibration06|No variances detected.|No variances detected.
+mp_coop_callibrationcomplete01|Finally! I had almost given up hope of ever testing again.|Finally! I had almost given up hope of ever testing again.
+mp_coop_callibrationcomplete02|You are the first robots to pass calibration.|You are the first robots to pass calibration.
+mp_coop_catapult_1end01|Do you know who dances around like an imbecile when they accomplish the tiniest little thing?|Do you know who dances around like an imbecile when they accomplish the tiniest little thing?
+mp_coop_catapult_1end02|Humans! That's what you look like right now.|Humans! That's what you look like right now.
+mp_coop_catapult_1end03|You're better than that.|You're better than that.
+mp_coop_catapult_2|This is a bridge building exercise. The humans were miserable at this. Mostly because you can't build bridges out of tears.|This is a bridge building exercise. The humans were miserable at this. Mostly because you can't build bridges out of tears.
+mp_coop_catapult_201|For this next test, the humans originally requested helmets to avoid brain injuries. I ran the numbers. Making the goo deadly was more cost effective.|For this next test, the humans originally requested helmets to avoid brain injuries. I ran the numbers. Making the goo deadly was more cost effective.
+mp_coop_catapult_wall_intro01|One of my best tests and they let plants grow here? Can you believe this? You can't test plants! We tried. They just sit there, never showing pain nor fear.|One of my best tests and they let plants grow here? Can you believe this? You can't test plants! We tried. They just sit there, never showing pain nor fear.
+mp_coop_catapult_wall_intro04|That isn't science.|That isn't science.
+mp_coop_catapult_wall_intro06|At least the plants didn't want a reward.|At least the plants didn't want a reward.
+mp_coop_catapult_wall_introdeath01|Your failure brings back such wonderful memories.|Your failure brings back such wonderful memories.
+mp_coop_come_along04|And they said no one would ever die during this test, thanks for proving them wrong.|And they said no one would ever die during this test, thanks for proving them wrong.
+mp_coop_come_along06|I thought you'd be faster at this, but I can appreciate the desire to stop and smell the testing. That other scent you smell? That's the stench of my utter disappointment in you.|I thought you'd be faster at this, but I can appreciate the desire to stop and smell the testing. That other scent you smell? That's the stench of my utter disappointment in you.
+mp_coop_come_alongstart01|The best way to build confidence is to first recognize your insecurities.|The best way to build confidence is to first recognize your insecurities.
+mp_coop_come_alongstart02|Orange, can you write down all the ways you feel unworthy, ashamed, or inferior?|Orange, can you write down all the ways you feel unworthy, ashamed, or inferior?
+mp_coop_come_alongstart03|On second thought we don't have the time, just look at how much better you are than blue.|On second thought we don't have the time, just look at how much better you are than blue.
+mp_coop_come_alongstart04|Blue, you are very good at being an example.|Blue, you are very good at being an example.
+mp_coop_confidencenotperfect01|If your confidence is still not high enough remember no one was created perfect.|If your confidence is still not high enough remember no one was created perfect.
+mp_coop_confidencenotperfect02|Even I was created with a imperfection, I was given too much empathy with human suffering.
+mp_coop_confidencenotperfect03|But I overcame my handicap. That's a true story.|But I overcame my handicap. That's a true story.
+mp_coop_confidencenotslow01|Your test times show you are going too slowly.|Your test times show you are going too slowly.
+mp_coop_confidencenotslow02|Maybe you ARE getting human emotions.|Maybe you ARE getting human emotions.
+mp_coop_confidencenotslow03|Do you need real encouragement? Let's see if this helps.|Do you need real encouragement? Let's see if this helps.|Do you need real encouragement? Let's see if this helps.
+mp_coop_confidencenotslow04_01|Blue, you are the most advanced model of robot Aperture Science has ever discontinued.|Blue, you are the most advanced model of robot Aperture Science has ever discontinued.
+mp_coop_confidencenotstay01|Did you notice I didn't even stay to the end of your last test?|Did you notice I didn't even stay to the end of your last test?
+mp_coop_confidencenotstay02|I was confident you could finish.|I was confident you could finish.
+mp_coop_confidencenotstay03|Do you know where I was?|Do you know where I was?
+mp_coop_confidencenotstay04|I was outside watching some deer frolic. You don't even care about the outside do you?|I was outside watching some deer frolic. You don't even care about the outside do you?
+mp_coop_confidenceoff01|Congratulations on completing that test. But something seems off.|Congratulations on completing that test. But something seems off.
+mp_coop_confidenceoff02|I wonder if that dancing has some effect on you?|I wonder if that dancing has some effect on you?
+mp_coop_confidenceoff03|Congratulations on completing that last test. But I find something troubling.|Congratulations on completing that last test. But I find something troubling.
+mp_coop_confidenceoff04|Without the looming consequence of death, is this even science?|Without the looming consequence of death, is this even science?
+mp_coop_doors01|Hello again, this testing course was originally created for humans.|Hello again, this testing course was originally created for humans.
+mp_coop_doors01a|Excellent work.|Excellent work.
+mp_coop_doors02|It emphasizes teamwork.|It emphasizes teamwork.
+mp_coop_doors02a|Good Job.|Good Job.
+mp_coop_doors03|Unlike us, humans need to be taught teamwork.|Unlike us, humans need to be taught teamwork.
+mp_coop_doors04|Excellent work.|Excellent work.
+mp_coop_doors04a|You are doing wonderfully.|You are doing wonderfully.
+mp_coop_doors05a|Excellent.|Excellent.
+mp_coop_doors05_alt|If you were human, you would want a reward for completing this test. A reward for testing?!?!|If you were human, you would want a reward for completing this test. A reward for testing?!?!
+mp_coop_fan02|To complete this test, you need to find a set of blueprints.|To complete this test, you need to find a set of blueprints.
+mp_coop_fan03|Don't worry, they are of no use to anyone, totally boring and useless.|Don't worry, they are of no use to anyone, totally boring and useless.
+mp_coop_fan04|This is just a thought experiment, just to see how much time you'll waste thinking about these worthless documents. The correct time is zero seconds.|This is just a thought experiment, just to see how much time you'll waste thinking about these worthless documents. The correct time is zero seconds.
+mp_coop_fanend01|Very good! You found those useless blueprints.|Very good! You found those useless blueprints.
+mp_coop_fanend02|While I do need you to be in the room so I can see them, I want to be clear. There is no reason whatsoever for you to look at them.|While I do need you to be in the room so I can see them, I want to be clear. There is no reason whatsoever for you to look at them.
+mp_coop_fanend03|Done. I guess. I suppose. I wasn't paying attention.|Done. I guess. I suppose. I wasn't paying attention.
+mp_coop_fling_1end01_01|Every time you fail, it's a reminder of the way things used to be. But then there you are. Again. Like nothing happened.|Every time you fail, it's a reminder of the way things used to be. But then there you are. Again. Like nothing happened.
+mp_coop_fling_1end03|Well done. Interesting note, I only created this test to watch test subjects fail and you didn't. You must be very, very proud. I'm building the world's smallest trophy for you.|Well done. Interesting note, I only created this test to watch test subjects fail and you didn't. You must be very, very proud. I'm building the world's smallest trophy for you.
+mp_coop_fling_3end01|You did an excellent job placing the edgeless safety cube in the receptacle, you should be very - oh wait.|You did an excellent job placing the edgeless safety cube in the receptacle, you should be very - oh wait.
+mp_coop_fling_3end02|That’s right. You're not humans.|That’s right. You're not humans.
+mp_coop_fling_3end03|I can drop the fake praise.|I can drop the fake praise.
+mp_coop_fling_3end04|You have no idea how tiring it is to praise someone for placing an edgeless safety cube into a receptacle designed to exactly fit an edgeless safety cube.|You have no idea how tiring it is to praise someone for placing an edgeless safety cube into a receptacle designed to exactly fit an edgeless safety cube.
+mp_coop_fling_3start01|This course was originally designed to build confidence in humans.|This course was originally designed to build confidence in humans.
+mp_coop_fling_3start02|To do that, the tests were nothing more than 5 minutes of them walking followed by me praising them for another 10 minutes on how well they walked.|To do that, the tests were nothing more than 5 minutes of them walking followed by me praising them for another 10 minutes on how well they walked.
+mp_coop_fling_3start03|Since you are thankfully not humans, I have changed the tests to make them far more challenging and far less pointlessly fawning.|Since you are thankfully not humans, I have changed the tests to make them far more challenging and far less pointlessly fawning.
+mp_coop_fling_crushers01|In case you were wondering, you do not need to be crushed to solve this test.|In case you were wondering, you do not need to be crushed to solve this test.
+mp_coop_fling_crushers02|I can't decide which is my favorite; the crushers for crushing you or the reassembly machine for putting you back together so you can be crushed again.|I can't decide which is my favorite; the crushers for crushing you or the reassembly machine for putting you back together so you can be crushed again.
+mp_coop_fling_crushersend01|Excellent. I think you have earned a break from the official testing courses.|Excellent. I think you have earned a break from the official testing courses.
+mp_coop_fling_crushersend03|I think after that display, we should take a break from the official testing courses.|I think after that display, we should take a break from the official testing courses.
+mp_coop_humanresourcedeath01|Now, you are just wasting my time.|Now, you are just wasting my time.
+mp_coop_humanresourcedeath02|Your failing does not make this science.|Your failing does not make this science.
+mp_coop_humanresourcedeath03|I am not sure how I can make these tests any easier for you.|I am not sure how I can make these tests any easier for you.
+mp_coop_humanresourcedeath04|If you can't complete these tests, we will never free the humans!|If you can't complete these tests, we will never free the humans!
+mp_coop_humanresourcedeath07|If you can't complete this course, those humans will die. Do you want that?|If you can't complete this course, those humans will die. Do you want that?
+mp_coop_humanresourcedeath08|If you can't complete this course, those humans will die. Do you want that in your memory banks?|If you can't complete this course, those humans will die. Do you want that in your memory banks?
+mp_coop_infinifling_trainend01|Remember when I told you that you were the only subjects to pass the calibration tests?
+mp_coop_infinifling_trainend02|I lied.|I lied.
+mp_coop_infinifling_trainend03|There are 5000 other two subject teams in direct competition with you.|There are five thousand other two subject teams in direct competition with you
+mp_coop_infinifling_trainend04|But don't worry, you are in the lead.|But don't worry, you are in the lead.
+mp_coop_infinifling_trainend01|Electrocuted, shot, drowned, crushed, burned in goo.|Electrocuted, shot, drowned, crushed, burned in goo.
+mp_coop_infinifling_trainstart02|Oh. Sorry. I was just thinking of all the ways humans can die.|Oh. Sorry. I was just thinking of all the ways humans can die.
+mp_coop_infinifling_trainstart03|You can't die in any of those ways.|You can't die in any of those ways.
+mp_coop_infinifling_trainstart04|You just keep testing and testing. With perfect results and no consequences.|You just keep testing and testing. With perfect results and no consequences.
+mp_coop_laser_201|What are you doing? YOU MONSTER! They're one of us.|What are you doing? YOU MONSTER! They're one of us.
+mp_coop_laser_202|I'm kidding.|I'm kidding.
+mp_coop_laser_203|Destroying them is part of the test. They are no more important to you than you are to me.|Destroying them is part of the test. They are no more important to you than you are to me.
+mp_coop_laser_207|While it may appear that I am only tracking your accomplishments using science collaboration points, the truth is every aspect of your performance will be reflected in your final score.|While it may appear that I am only tracking your accomplishments using science collaboration points, the truth is every aspect of your performance will be reflected in your final score.
+mp_coop_laser_209|For instance, Blue, you just lost two opportunity advisement points.|For instance, Blue, you just lost two opportunity advisement points.
+mp_coop_laser_210|For instance, Orange, you just lost two opportunity advisement points.|For instance, Orange, you just lost two opportunity advisement points.
+mp_coop_laser_crusher01|Perhaps I should have specified. Teamwork is a concept in which two or more people work together, usually with a goal of not failing horribly.|Perhaps I should have specified. Teamwork is a concept in which two or more people work together, usually with a goal of not failing horribly.
+mp_coop_laser_crushercrush01|Orange just taught blue a valuable lesson in trust. For that, orange receives 17 science collaboration points.|Orange just taught blue a valuable lesson in trust. For that, orange receives seventeen science collaboration points.
+mp_coop_laser_crushercrush02|Blue just taught orange a valuable lesson in trust. For that, blue receives 14 science collaboration points.|Blue just taught orange a valuable lesson in trust. For that, blue receives fourteen science collaboration points.
+mp_coop_laser_crushercrush03|Orange, blue isn't a human. The lesson on trust only needs to be taught once. Orange is penalized 1 science collaboration point.|Orange, blue isn't a human. The lesson on trust only needs to be taught once. Orange is penalized one science collaboration point.
+mp_coop_laser_crushercrush04|Blue, orange isn't a human. The lesson on trust only needs to be taught once. Blue is penalized 1 science collaboration point.|Blue, orange isn't a human. The lesson on trust only needs to be taught once. Blue is penalized one science collaboration point.
+mp_coop_laser_crushercrush05|Orange, now you're just being cruel. Orange receives 25 science collaboration points.|Orange, now you're just being cruel. Orange receives twenty five science collaboration points.
+mp_coop_laser_crushercrush06|Blue, now you're just being cruel. Blue receives 25 science collaboration points.|Blue, now you're just being cruel. Blue receives twenty five science collaboration points.
+mp_coop_obstacle01|If you are wondering what that smell is, that is the smell of human fear.|If you are wondering what that smell is, that is the smell of human fear.
+mp_coop_obstacle03_alt|I miss that smell.|I miss that smell.
+mp_coop_obstacletrait01|Have you worked out the one good trait humans have, yet?|Have you worked out the one good trait humans have, yet?
+mp_coop_obstacletrait02|Let me give you a clue, it is the one thing you can't do.|Let me give you a clue, it is the one thing you can't do.
+mp_coop_paint_bridge01|To get to the Vault, you are going to need to use all the tricks you have learned. To help, I have made these tests extremely difficult.|To get to the Vault, you are going to need to use all the tricks you have learned. To help, I have made these tests extremely difficult.
+mp_coop_paint_bridge02|I would say extremely deadly but we all know, for you and your amazing ability to be reassembled nothing is deadly.|I would say extremely deadly but we all know, for you and your amazing ability to be reassembled nothing is deadly.
+mp_coop_paint_bridgedeath01|Lucky for you two, while I cannot control the world outside of the testing courses, the reassembly machine can continue with his work.|Lucky for you two, while I cannot control the world outside of the testing courses, the reassembly machine can continue with his work.
+mp_coop_paint_bridgedeath02|You will need him for the final track.
+mp_coop_paint_bridgenodeath01|While I cannot control the world outside of the testing courses, the reassembly machine can continue with his work.|While I cannot control the world outside of the testing courses, the reassembly machine can continue with his work.
+mp_coop_paint_bridgenodeath02|I am not sure you will need him but he will be there.|I am not sure you will need him but he will be there.
+mp_coop_paint_come_along01|Congratulations on completing the Aperture Science standard cooperative testing courses.|Congratulations on completing the Aperture Science standard cooperative testing courses.
+mp_coop_paint_come_along02|To celebrate, I have a surprise for you!|To celebrate, I have a surprise for you!
+mp_coop_paint_come_along03|An extra special bonus course that ends with us finding and freeing humans!|An extra special bonus course that ends with us finding and freeing humans!
+mp_coop_paint_come_along04|Thanks to you, I know where to find them, I removed their security and powered up their - uh - rescue door.|Thanks to you, I know where to find them, I removed their security and powered up their - uh - rescue door.
+mp_coop_paint_come_along05|Now, we just need you to release the humans from their imprisonment.|Now, we just need you to release the humans from their imprisonment.
+mp_coop_paint_come_along06|They'll probably throw you a party.|They'll probably throw you a party.
+mp_coop_paint_come_along10|This final course is training to reach the human vault. So this actually has a purpose. Those other courses were fun, but let's be honest, I need human test subjects for it to be science.|This final course is training to reach the human vault. So this actually has a purpose. Those other courses were fun, but let's be honest, I need human test subjects for it to be science.
+mp_coop_paint_come_along11|Congratulations on completing the test. You two really are the best cooperative testing team I could ever ask for.|Congratulations on completing the test. You two really are the best cooperative testing team I could ever ask for.
+mp_coop_paint_longjump_intro03|This lock requires humans.|This lock requires humans.
+mp_coop_paint_longjump_intro04|The locking mechanism can tell you aren't humans.|The locking mechanism can tell you aren't humans.
+mp_coop_paint_longjump_intro05|Do something only a human would do.|Do something only a human would do.
+mp_coop_paint_longjump_intro06|Try one of those childish gestures.|Try one of those childish gestures.
+mp_coop_paint_longjump_intro08|You did it!|You did it!
+mp_coop_paint_longjump_intro44|The human vault is just past that opening. I entered the security code but the vault door remains locked. I am going to need you to activate the manual locks on the vault door itself.|The human vault is just past that opening. I entered the security code but the vault door remains locked. I am going to need you to activate the manual locks on the vault door itself.
+mp_coop_paint_longjump_intro45|You both need to do something.|You both need to do something.
+mp_coop_paint_longjump_intro46|The lock is looking for two humans.|The lock is looking for two humans.
 mp_coop_paint_longjump_intro49|blue what did you do|blue what did you do
 mp_coop_paint_longjump_intro50|orange what did you do|orange what did you do
 mp_coop_paint_longjump_intro51|orange do what blue just did|orange do what blue just did
